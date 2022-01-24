@@ -25,10 +25,10 @@ We consider the data for two cases: data is unchanged, and data is normalized by
 
 	tensorflow    (this notebook is compatible with v1, caution if you have v1 or v2 downloaded)
   
-  numpy
+  	numpy
 	
 	matplotlib
 	
 	scipy
 	
-  sklearn
+  	sklearn
