@@ -19,3 +19,16 @@ Layer 3: (output layer) 2 neurons and softmax for the activation function.
 
 
 We consider the data for two cases: data is unchanged, and data is normalized by the maximum value of each feature. 
+
+
+%------------------------------------ Required Packages --------------------------------------%
+
+	tensorflow    (this notebook is compatible with v1, caution if you have v1 or v2 downloaded)
+  
+  numpy
+	
+	matplotlib
+	
+	scipy
+	
+  sklearn
