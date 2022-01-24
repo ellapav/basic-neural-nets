@@ -1,3 +1,4 @@
+%---------------------------------------- Data ------------------------------------------%
 In neuralnet.ipynb we consider the data of people applying for credit cards, and a banker has placed them in one of the following categories:
 
 Approved (1)
@@ -8,7 +9,7 @@ Each data point has 16 associated features (found in credit_data.csv) and a corr
 (# data = m = 653, # features = n = 16)
 
 
-
+%------------------------------------ Goal of the project --------------------------------------%
 The goal in this program is to create an artificial neural network (ANN) model with 3 layers. 
 
 Layer 1: 30 neurons and linear transfer function for the activation function.
